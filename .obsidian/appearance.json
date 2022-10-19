@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "translucency": false,
+  "interfaceFontFamily": "Noto Sans CJK SC,Arial",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Roboto Mono",
+  "textFontFamily": "Noto Sans CJK SC",
+  "cssTheme": "Things",
+  "accentColor": ""
+}
